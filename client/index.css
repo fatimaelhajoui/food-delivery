@@ -1,0 +1,26 @@
+body{
+    font-family: 'Exo 2', sans-serif;
+    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+}
+nav{
+    font-size: 20px;
+}
+.bg-overlay {
+    background:  linear-gradient(rgba(43, 43, 43, 0.7), rgba(43, 43, 43, 0.7)), 
+    url("food.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    color: #fff;
+    height: 450px;
+    padding-top: 50px;
+}
+/* Centered text */
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+
