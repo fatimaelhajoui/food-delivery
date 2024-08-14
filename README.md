@@ -17,4 +17,3 @@ Our project is a comprehensive food delivery web application, meticulously craft
   <li>Menu Update</li>
   <li>Orders tracking and managment</li>
 </ul>
-[for more understanding:](https://github.com/user-attachments/assets/893e376b-5e86-47f8-a635-e17e80d86dec)
